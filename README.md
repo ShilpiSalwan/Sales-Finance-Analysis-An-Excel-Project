@@ -37,6 +37,6 @@
 - [x]	Experienced in establishing data model relationships using Power Pivot.
 - [x]	Derived fiscal months and quarters as per financial reporting cycles.
 - [x]	Utilized DAX (Data Analysis Expressions) to create calculated columns for advanced data analysis.
-- [x]	Gained domain knowledge of Sales & Finance sector of a company.
+- [x]	Gained functional knowledge of Sales & Finance sector of a company.
 - [x]	Designed user-centric reports to effectively communicate insights and findings. 
 
