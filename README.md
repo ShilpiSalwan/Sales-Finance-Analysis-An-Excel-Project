@@ -1,13 +1,12 @@
 # Sales-Finance-Analysis-An-Excel-Project
 
 ## Sales Analysis Report: **Objectives** 
-**1.** Create a _[customer performance report]
-(https://github.com/ShilpiSalwan/Sales-Finance-Analysis-An-Excel-Project/blob/main/Sales_Customer%20Performance%20Report.pdf)
+**1.** Create a [customer performance report](https://github.com/ShilpiSalwan/Sales-Finance-Analysis-An-Excel-Project/blob/main/Sales_Customer%20Performance%20Report.pdf)
 
-**2.** Conduct a comprehensive comparison between _[market performance and sales targets]
-(https://github.com/ShilpiSalwan/Sales-Finance-Analysis-An-Excel-Project/blob/main/Sales_Market%20Performance%20vs%20Target%20Report.pdf)
+**2.** Conduct a comprehensive comparison between [market performance and sales targets](https://github.com/ShilpiSalwan/Sales-Finance-Analysis-An-Excel-Project/blob/main/Sales_Market%20Performance%20vs%20Target%20Report.pdf)
 
 **Project Purpose**
+
 **1.** Evaluate and track the  sales performance of the companies.
 
 **2.** Identify sales patterns and monitor key performance indicators (KPIs).
@@ -16,15 +15,13 @@
 
 
 ## Finance Analysis Report: **Objectives** 
-**1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]
-(https://github.com/ShilpiSalwan/Sales-Finance-Analysis-An-Excel-Project/blob/main/Finance_P%26L%20Statement%20by%20Fiscal%20Year.pdf)
- _ & _[Months]
-(https://github.com/ShilpiSalwan/Sales-Finance-Analysis-An-Excel-Project/blob/main/Finance_P%26L%20Statement%20by%20Months.pdf)
+**1.** Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/ShilpiSalwan/Sales-Finance-Analysis-An-Excel-Project/blob/main/Finance_P%26L%20Statement%20by%20Fiscal%20Year.pdf)
+ & [Months](https://github.com/ShilpiSalwan/Sales-Finance-Analysis-An-Excel-Project/blob/main/Finance_P%26L%20Statement%20by%20Months.pdf)
 
-**2.** Create Profit and Loss (P&L) reports by _[Markets]
-(https://github.com/ShilpiSalwan/Sales-Finance-Analysis-An-Excel-Project/blob/main/Finance_P%26L%20Statement%20by%20Markets.pdf)
+**2.** Create Profit and Loss (P&L) reports by [Markets](https://github.com/ShilpiSalwan/Sales-Finance-Analysis-An-Excel-Project/blob/main/Finance_P%26L%20Statement%20by%20Markets.pdf)
 
 **Project Purpose**
+
 **1.** Determine the financial parameters of the company. Aid in benchmarking against industry peers.
 
 **2.** Evaluate financial performance esp. Profit and Loss (P&L) and growth comparison over previous fiscal years.
