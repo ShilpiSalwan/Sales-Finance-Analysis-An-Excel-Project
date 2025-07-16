@@ -28,7 +28,7 @@
 
 **3** Align financial planning with strategic goals and facilitate forecasting for future fiscal years.
 
-## TECHNICAL SKILLS:
+## Technical Skills:
 - [x]	Proficient in ETL (Extract, Transform, Load) methodology for data processing.
 - [x]	Skilled in generating date tables efficiently using Power Query.
 - [x]	Experienced in establishing data model relationships using Power Pivot.
